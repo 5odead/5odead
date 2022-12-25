@@ -1,5 +1,5 @@
 ###  Hey everyone, I'm 5odead
-I'm a self-taught passionate hacker from India
+I'm a self-taught passionate hacker and programmer from India
 <!--
 **5odead/5odead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
