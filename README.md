@@ -1,5 +1,5 @@
 ###  Hey everyone, I'm 5odead
-Self-Taught Programmer and a Passionate Hacker from India
+Self-Taught Programmer and a Passionate Hacker
 
 🌱 I’m currently learning JavaScript <br>
 📫 How to reach me: fanofxra@protonmail.com
