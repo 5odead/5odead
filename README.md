@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=5odead&show_icons=true&theme=radical)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5odead)](https://github.com/anuraghazra/github-readme-stats)
 <be>
 <h1> My Skill Set </h1>
