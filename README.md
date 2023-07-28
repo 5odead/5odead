@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5odead)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5odead)
 <be>
 <h1> My Skill Set </h1>
 <div align="center">  
