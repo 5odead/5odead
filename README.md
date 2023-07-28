@@ -1,7 +1,7 @@
 ###  Hey everyone, I'm 5odead
 Self-Taught Programmer and a Passionate Hacker
 
-🌱 I’m currently learning JavaScript <br>
+🌱 I’m currently learning C <br>
 📫 How to reach me: fanofxra@protonmail.com
 <!--
 **5odead/5odead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
