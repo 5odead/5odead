@@ -1,5 +1,5 @@
 ###  Hey everyone, I'm Anurag
-Self-Taught Programmer and a Passionate Hacker
+Self-Taught Programmer and a Passionate Hacker!
 
 🌱 I’m currently learning C <br>
 📫 How to reach me: FANOFXRA@protonmail.com
