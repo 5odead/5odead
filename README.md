@@ -1,5 +1,5 @@
-###  Hey everyone, I'm Anurag
-Self-Taught Programmer and a Passionate Hacker!
+###  Hey Everyone 
+Im a Self-Taught Programmer and a Passionate Hacker!
 
 🌱 I’m currently learning JavaScript <br>
 <!--
