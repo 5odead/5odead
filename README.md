@@ -1,13 +1,16 @@
+
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=5odead&&style=flat-square" align="center" />
 </div>  
+
+> [!NOTE]  
+> I'm open to work, HMU if your company is building something awesome.
   
 
 
-###  Hey Everyone 
-Im a Self-Taught Programmer and a Passionate Hacker!
+Self-Taught Programmer and a Passionate Hacker!
 
 I’m currently learning Tkinter <br>
 <!--
