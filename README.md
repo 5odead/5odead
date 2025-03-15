@@ -12,7 +12,7 @@
 
 Self-Taught Programmer and a Passionate Hacker!
 
-I’m currently learning Tkinter <br>
+<br>
 <!--
 **5odead/5odead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
